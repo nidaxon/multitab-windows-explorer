@@ -5,7 +5,10 @@
 # MultiTab Windows Explorer
 
 A lightweight tabbed file manager for Windows. It hosts the real Windows Explorer view inside browser-style tabs, so you get the familiar folder view, context menus and shell extensions, with tabs, pinning, keyboard shortcuts and automatic dark/light mode on top.
-This program was created with purpose to de-clutter the experience of file management on Windows 10 using Windows Explorer, so now you can open many different folders using Windows Explorer using tabs at the same time inside a single window. Because some of you including me probably thinks using another file management/commander programs were too heavy, bothersome or maybe become overwhelmed by the unnecessary features that they have.
+
+This program was created with purpose to de-clutter the experience of file management on Windows 10 using Windows Explorer, so now you can open many different folders using Windows Explorer using tabs at the same time inside a single window. 
+
+Because some of you including me probably thinks using another file management/commander programs were too heavy, bothersome or maybe become overwhelmed by the unnecessary features that they have.
 This program may also run on Windows 11, but there's no point for doing that since Windows 11 already has tabs natively on Windows Explorer 🙃
 
 > **Screenshots:** 
