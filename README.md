@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/mtwe.png" alt="MTWE Icon">
+  <img src="docs/mtwe.png" alt="MTWE Icon" width="200">
 </p>
 
 # MultiTab Windows Explorer
